@@ -1,3 +1,3 @@
 # hello-world
 testing GitHub tutorial
-I'm introvert and shy person
+<br/>I'm like videogames, mangas and sci-fi
